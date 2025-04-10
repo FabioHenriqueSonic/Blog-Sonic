@@ -1,0 +1,1 @@
+Este blog foi feito para o curso de DS (Desenvolvimento de Sistemas) aonde a atrefa era de fazer uma wiki ou um blog sobre um tópico livre onde eu optei por usar um tópico pessoal de meu gosto nesse projeto foi utilizado apenas HTML5 e CSS3.
