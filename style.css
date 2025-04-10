@@ -28,10 +28,10 @@ body {
     float: left;
 }
 
-footer {
+.footer {
     background-color:red;
-    width: auto;
     height: auto;
+    width: auto;
     border: 5px solid black;
     padding: 20px;
     display: flex;
